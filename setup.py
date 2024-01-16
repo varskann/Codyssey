@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='Codyssey',
-    version='1.0.0',
+    version='1.0.8',
     packages=find_packages(),
     description='Python arsenal for competitive mastery',
     long_description=open('README.md').read(),
